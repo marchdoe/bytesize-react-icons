@@ -1,0 +1,22 @@
+{
+  "name": "react-bytesize-icons",
+  "version": "0.1.0",
+  "description": "React component for the Bytesize Icon Set by Dan Klammer |  https://github.com/danklammer/bytesize-icons",
+  "main": "dist/Icon.js",
+  "author": "Doug March",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "0.8.4"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
