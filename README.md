@@ -1,4 +1,4 @@
-##Bytesize React Icons
+## Bytesize React Icons
 All the icons were designed by [Dan Klammer](https://github.com/danklammer).  
 Find the original [SVG icons here](https://github.com/danklammer/bytesize-icons).  
 
